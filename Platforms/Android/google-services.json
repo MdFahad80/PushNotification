@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354513956364",
+    "project_id": "fellowtestapp",
+    "storage_bucket": "fellowtestapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354513956364:android:3bae4f8417ebfd424e8829",
+        "android_client_info": {
+          "package_name": "com.companyname.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBecIwGVXF1iXwBv9kHqzWAq-pFA41TDVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
